@@ -4,8 +4,8 @@
     "logo": "https://graph.org/file/b7e8484f6395a180b6380.jpg",
     "keywords": ["telegram", "auto-filter"],
     "stack": "container",
-    "website": "https://github.com/MrMKN/PROFESSOR-BOT",
-    "repository": "https://github.com/MrMKN/PROFESSOR-BOT",
+    "website": "https://github.com/kbmg2831/PROFESSOR-BOT",
+    "repository": "https://github.com/kbmg2831/PROFESSOR-BOT",
     "env": {
         "WEBHOOK": {
             "description": "True/False if your server is web support required? the value is True else False",
@@ -58,7 +58,7 @@
         },
         "CUSTOM_FILE_CAPTION": {
             "description": "A custom file caption for your files. formatable with , file_name, file_caption, file_size, Read Readme.md for better understanding.",
-            "value": "Hey {mention}👋\n\n{file_name}\n\n🔘 size - {file_size}\n\n╭─── • ❰ @MR_LINK_Z ❱ • ────➤\n┣ ▫️ @MRxSERIES\n┣ ▫️ @MalluMovie_Official\n╰─────── • ◆ • ───────➤",
+            "value": "Hey {mention}👋\n\n{file_name}\n\n🔘 size - {file_size}\n\n➥ 𝗝𝗼𝗶𝗻 ➼ @TamilRockerz_TR\n ",
             "required": false
         },
         "DATABASE_URI": {
@@ -77,7 +77,7 @@
         },
         "SUPPORT_CHAT": {
             "description": "Updated Channel Username Without @ Not Chanel ID",
-            "value": "MKN_BOTZ_DISCUSSION_GROUP",
+            "value": "Kali_Official_Group",
             "required": false
         },
         "IMDB": {
